@@ -1,0 +1,183 @@
+*
+{
+    margin: 0;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading
+{
+    font-size: 40px;
+    color: white;
+}
+
+td
+{
+    color: white;
+    text-align: center;
+    width: 5vw;
+    border: 1px solid white;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.none
+{
+    border: none;
+}
+
+.color1
+{
+    background-color: #000099;
+}
+
+.color2
+{
+    background-color: #1a66c9;
+}
+
+.color3
+{
+    background-color: #003300;
+}
+
+.color4
+{
+    background-color: #004d1a;
+}
+
+.color5
+{
+    background-color: #5c0099;
+}
+
+.color6
+{
+    background-color: #0099cc;
+}
+
+.color7
+{
+    background-color: #ff0000;
+}
+
+.color8
+{
+    background-color: #003366;
+}
+
+.color9
+{
+    background-color: #008000;
+}
+
+.color10
+{
+    background-color: #336699;
+}
+
+.color11
+{
+    background-color: #994d00;
+}
+
+.color12
+{
+    background-color: #595959;
+}
+
+h3
+{
+    color: white;
+}
+
+#hydrogen
+{
+    margin-left: 20px;
+    background-color: #000099;
+    color: white;
+}
+
+#alkaline_metals
+{
+    background-color: #003300;
+    color: white;
+}
+
+#alkaline_earth_metals
+{
+    background-color: #004d1a;
+    color: white;
+}
+
+#transition_metals
+{
+    background-color: #5c0099;
+    color: white;
+}
+
+#post_transition_metals
+{
+    background-color: #003366;
+    color: white;
+}
+
+#metalloids
+{
+    background-color: #0099cc;
+    color: white;
+}
+
+#nonmetals
+{
+    background-color: #008000;
+    color: white;
+}
+
+#lanthanides
+{
+    background-color: #336699;
+    color: white;
+}
+
+#actinides
+{
+    background-color: #994d00;
+    color: white;
+}
+
+#halogens
+{
+    background-color: #ff0000;
+    color: white;
+}
+
+#noble_gases
+{
+    background-color: #1a66c9;
+    color: white;
+}
+
+#unknown
+{
+    background-color: #595959;
+    color: white;
+}
+
+p
+{
+    color: white;
+}
+
+label
+{
+    color: white;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-left: 10px;
+}
+
+span
+{
+    display: inline-flex;
+}
